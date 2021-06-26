@@ -30,9 +30,19 @@ body {
 
 h1 {
     font-size: 4.5rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 4rem;
 }
 
 h3 {
+    font-size: 2.25rem;
+    color: var(--red);
+}
+
+h4 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
 }
@@ -51,7 +61,7 @@ header {
 /*-----Grid-----*/
 #grid {
     height: 80vh;
-    padding: 5rem 32rem;
+    padding: 2rem 32rem 5rem;
 
     display: grid;
     grid-template-columns: auto auto auto;
@@ -60,5 +70,33 @@ header {
 }
 
 .grid-item {
+    height: 12rem;
+    width: 17rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
     border: solid 5px var(--orange);
+    cursor: pointer;
+}
+
+/*-----Images-----*/
+#bird-music {
+    position: absolute;
+    top: 75%;
+
+    width: 15.5rem;
+    height: 14rem;
+}
+
+#music-note {
+    position: absolute;
+    left: 80%;
+    bottom: 75%;
+
+    width: 14rem;
+    height: 9rem;
 }
