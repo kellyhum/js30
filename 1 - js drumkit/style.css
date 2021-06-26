@@ -1,0 +1,64 @@
+/**
+ * style.css
+ * contains the code for styling js drumkit
+*/
+
+/*-----Colors-----*/
+:root {
+    --beige: #F9EEE2;
+    --blue: #3F3D56;
+    --orange: #F57A4D;
+    --red: #9C3725;
+ }
+
+/*-----General-----*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+
+    background-color: var(--beige);
+    color: var(--blue);
+    font-family: 'Concert One', cursive;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 4.5rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+header {
+    height: 20vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 3rem;
+}
+
+/*-----Grid-----*/
+#grid {
+    height: 80vh;
+    padding: 5rem 32rem;
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto;
+    gap: 1.5rem;
+}
+
+.grid-item {
+    border: solid 5px var(--orange);
+}
