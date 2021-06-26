@@ -1,9 +1,14 @@
 # js30
-Just keeping track of my progress in the 30 day vanilla js challenge   
-Challenge link: https://javascript30.com/
+just keeping track of my progress in the 30 day vanilla js challenge  
+start date: june 26/2021  
+challenge link: https://javascript30.com/
 
-### the why
-I've got a lot of time on my hands, so I figured why not try to get better at Javascript? 
+### 🌱the why
+i've got a lot of time on my hands, so i figured why not try to get better at Javascript
 
-### notes (divided by project)
+### ✏notes (divided by project)
 1 - redo project using my own solution (to be figured out later)
+
+### 💡thoughts
+- really plan your time well.  or maybe that's just because i take forever to design, code then troubleshoot problems...
+- it's alright to code along with the video (personally am not used to 1 day time constraints), although i'm still going to create my own solution to the problem later
