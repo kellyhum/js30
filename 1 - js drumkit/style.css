@@ -83,6 +83,17 @@ header {
     cursor: pointer;
 }
 
+.selected {
+    animation-name: size;
+    animation-duration: 0.1s;
+}
+
+@keyframes size {
+    0% {transform: scale(1,1);}
+    75% {transform: scale(1.1, 1.1); border: solid 5px var(--red);}
+    100% {transform: scale(1,1);}
+}
+
 /*-----Images-----*/
 #bird-music {
     position: absolute;
