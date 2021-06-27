@@ -8,6 +8,7 @@ i've got a lot of time on my hands, so i figured why not try to get better at Ja
 
 ### ✏notes (divided by project)
 1 - redo project using my own solution (to be figured out later)
+2 - solve the 360deg issue (when clock hand reaches 360deg, issue happens)
 
 ### 💡thoughts
 - really plan your time well.  or maybe that's just because i take forever to design, code then troubleshoot problems...
