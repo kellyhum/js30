@@ -6,8 +6,8 @@
 /*-----General-----*/
 :root {
     --color: palegoldenrod;
-    --spacing: 1rem;
-    --blur: 1rem;
+    --spacing: 10px;
+    --blur: 0px;
 }
 
 * {
@@ -23,6 +23,7 @@ body {
     display: flex;
 
     font-family: 'Roboto', sans-serif;
+    background-color: var(--color);
 }
 
 label {
@@ -30,11 +31,12 @@ label {
 }
 
 img {
-    top: 20%;
     position: relative;
     width: auto;
-    height: 70%;
-    margin: 0 auto;
+    height: 80%;
+    margin: auto;
+    padding: var(--spacing);
+    filter: blur(var(--blur));
 }
 
 #commands {
