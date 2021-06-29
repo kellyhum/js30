@@ -1,0 +1,51 @@
+/**
+ * style.css
+ * used to style the js and css variables project
+*/
+
+/*-----General-----*/
+:root {
+    --color: palegoldenrod;
+    --spacing: 1rem;
+    --blur: 1rem;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    max-width: 100vw;
+
+    display: flex;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+label {
+    font-size: 1.5rem;
+}
+
+img {
+    top: 20%;
+    position: relative;
+    width: auto;
+    height: 70%;
+    margin: 0 auto;
+}
+
+#commands {
+    padding: 1rem;
+
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-evenly;
+
+    background-color: #fff;
+}
