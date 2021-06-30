@@ -1,6 +1,6 @@
 # js30
 just keeping track of my progress in the 30 day vanilla js challenge  
-start date: june 26/2021  
+start date: june 25/2021  
 challenge link: https://javascript30.com/
 
 ### 🌱the why
