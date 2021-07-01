@@ -14,4 +14,4 @@ i've got a lot of time on my hands, so i figured why not try to get better at Ja
 ### 💡thoughts
 - really plan your time well.  or maybe that's just because i take forever to design, code then troubleshoot problems...
 - it's alright to code along with the video (personally am not used to 1 day time constraints), although i'm still going to create my own solution to the problem later
-- it's also okay to take longer than the 1 day constraint, as long as you learn something/finish the project (yes, i took two days to finish the day 1 project...)
+- it's also okay to take longer than the 1 day constraint, as long as you learn something/finish the project (because yes, it does take me 6 hours just to understand a single concept...)
