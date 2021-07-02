@@ -6,13 +6,10 @@ challenge link: https://javascript30.com/
 ### 🌱the why
 i've got a lot of time on my hands, so i figured i'd use it to improve my js skills
 
-### ✏notes (divided by project) 
-**if you see the words "redo project/solution" that means I had a lot going on/just wanted to relax, so I followed the video instructions
-  
-1 - redo project/solution   
+### ✏notes (divided by project)
+1 - redo project using my own solution (to be figured out later)  
 2 - solve the 360deg issue (when clock hand reaches 360deg, issue happens)  
-3 - redo project/solution  
-5 - redo project/solution 
+3 - redo project using my own solution (to be figured out later)  
 
 ### 💡thoughts
 - really plan your time well.  or maybe that's just because i take forever to design, code then troubleshoot problems...
