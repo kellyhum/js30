@@ -7,12 +7,13 @@ challenge link: https://javascript30.com/
 i've got a lot of time on my hands, so i figured i'd use it to improve my js skills  
   
 ### ✏notes (divided by project)
-**if you see "redo project/solution" that means i was busy so i followed the video instructions  
+**if you see "redo project/solution" it means i was busy so i followed the video instructions  
 
 1 - minor changes  
 2 - solve the 360deg issue (when clock hand reaches 360deg, issue happens)    
 3 - minor changes  
 5 - redo project/solution  
+6 - redo project/solution  
 
 ### 💡thoughts
 - really plan your time well.  or maybe that's just because i take forever to design, code then troubleshoot problems...
