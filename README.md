@@ -1,4 +1,6 @@
 # js30
+**NOTE: will be pausing the challenge for time being, since i'm mildly swamped with other things right now  
+  
 just keeping track of my progress in the 30 day vanilla js challenge  
 start date: june 25/2021  
 challenge link: https://javascript30.com/
